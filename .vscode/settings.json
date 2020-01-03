@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python3.exe",
+    "python.formatting.provider": "yapf",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django",
+    ],
+    "git.ignoreLimitWarning": true
+}
